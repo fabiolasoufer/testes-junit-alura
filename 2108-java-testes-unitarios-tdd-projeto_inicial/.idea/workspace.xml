@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c0781394-d295-44f4-8147-d3eae4d8d4cc" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/alura/tdd/service/BonusService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/alura/tdd/service/BonusService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/alura/tdd/service/BonusServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/alura/tdd/service/BonusServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/br/com/alura/tdd/service/ReajusteServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/br/com/alura/tdd/service/ReajusteServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +65,7 @@
       <recent name="br.com.alura.tdd.service" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.BonusServiceTest">
+  <component name="RunManager" selected="JUnit.br.com.alura.tdd.service in tdd">
     <configuration name="All in 2108-java-testes-unitarios-tdd-projeto_inicial" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="2108-java-testes-unitarios-tdd-projeto_inicial" />
       <option name="PACKAGE_NAME" value="" />
@@ -148,9 +147,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.BonusServiceTest" />
-        <item itemvalue="JUnit.ReajusteServiceTest" />
         <item itemvalue="JUnit.br.com.alura.tdd.service in tdd" />
+        <item itemvalue="JUnit.ReajusteServiceTest" />
+        <item itemvalue="JUnit.BonusServiceTest" />
         <item itemvalue="JUnit.br.com.alura.tdd.service in 2108-java-testes-unitarios-tdd-projeto_inicial" />
         <item itemvalue="JUnit.All in 2108-java-testes-unitarios-tdd-projeto_inicial" />
       </list>
